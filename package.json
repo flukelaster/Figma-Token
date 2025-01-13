@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "style-dictionary": "^4.3.0"
+  },
+  "devDependencies": {
+    "sass": "^1.83.1"
+  },
+  "scripts": {
+    "build-sass": "sass stylesheet/style.scss stylesheet/style.css",
+    "watch-sass": "sass --watch stylesheet/style.scss:stylesheet/style.css"
+  }
+}
