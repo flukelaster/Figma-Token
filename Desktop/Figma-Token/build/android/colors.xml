@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly, this file was auto-generated.
+-->
+<resources>
+  <color name="primitives_branding_brand_ci">#ff000000</color>
+  <color name="primitives_blue_blue_100">#fff1f8ff</color>
+  <color name="primitives_blue_blue_200">#ffcae3ff</color>
+  <color name="primitives_blue_blue_300">#ff4a88ff</color>
+  <color name="primitives_blue_blue_400">#ff2a71ff</color>
+  <color name="primitives_blue_blue_500">#ff015aff</color>
+  <color name="primitives_blue_blue_700">#ff0149cc</color>
+  <color name="primitives_purple_purple_100">#fffaf4ff</color>
+  <color name="primitives_purple_purple_200">#ffe8ccff</color>
+  <color name="primitives_purple_purple_300">#ff8a66ff</color>
+  <color name="primitives_purple_purple_400">#ff734dff</color>
+  <color name="primitives_purple_purple_500">#ff5c33ff</color>
+  <color name="primitives_purple_purple_700">#ff4a29cc</color>
+  <color name="primitives_green_green_100">#fff8ffdc</color>
+  <color name="primitives_green_green_200">#ffe6ff9a</color>
+  <color name="primitives_green_green_300">#ff7fd43d</color>
+  <color name="primitives_green_green_400">#ff66c12e</color>
+  <color name="primitives_green_green_500">#ff4caf1e</color>
+  <color name="primitives_green_green_700">#ff3b8717</color>
+  <color name="primitives_yellow_yellow_100">#fffff9e3</color>
+  <color name="primitives_yellow_yellow_200">#ffffeca1</color>
+  <color name="primitives_yellow_yellow_300">#fffbd04a</color>
+  <color name="primitives_yellow_yellow_400">#fffac53b</color>
+  <color name="primitives_yellow_yellow_500">#fff9cb2c</color>
+  <color name="primitives_yellow_yellow_700">#ffc99f24</color>
+  <color name="primitives_red_red_100">#fffff5f5</color>
+  <color name="primitives_red_red_200">#fffedada</color>
+  <color name="primitives_red_red_300">#fff47676</color>
+  <color name="primitives_red_red_400">#fff05c5c</color>
+  <color name="primitives_red_red_500">#ffeb4444</color>
+  <color name="primitives_red_red_700">#ffc33636</color>
+  <color name="primitives_neutral_white">#ffffffff</color>
+  <color name="primitives_neutral_dark_100">#fff4f5f8</color>
+  <color name="primitives_neutral_dark_200">#ffdfdfdf</color>
+  <color name="primitives_neutral_dark_300">#ffcfcfcf</color>
+  <color name="primitives_neutral_dark_400">#ff8b8b8b</color>
+  <color name="primitives_neutral_dark_900">#ff1e1e1e</color>
+  <color name="text_primary_blue_500">#ff00205b</color>
+  <color name="text_primary_content_900">#ff1e1e1e</color>
+  <color name="text_primary_success_500">#ff4caf1e</color>
+  <color name="text_primary_warning_500">#fff9cb2c</color>
+  <color name="text_primary_error_500">#ffeb4444</color>
+  <color name="text_secondary_subcontent_400">#ff8b8b8b</color>
+  <color name="text_secondary_ramark_300">#ffcfcfcf</color>
+  <color name="text_secondary_white">#ffffffff</color>
+  <color name="bg_primary_white_bg">#ffffffff</color>
+  <color name="bg_primary_bg_section">#fff1f8ff</color>
+  <color name="bg_primary_page_bg">#fff4f5f8</color>
+</resources>
