@@ -166,7 +166,7 @@
   "text": {
     "primary": {
       "blue-500": {
-        "value": "#015AFF",
+        "value": "#00205b",
         "type": "color"
       },
       "content-900": {
@@ -384,5 +384,21 @@
       "value": "{dimension.2xl} * 4",
       "type": "dimension"
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "primitives",
+      "text",
+      "bg",
+      "spacing",
+      "BorderRadius",
+      "opacity",
+      "FontFamily",
+      "fontWeight",
+      "lineHeights",
+      "fontSizes",
+      "dimension"
+    ]
   }
 }
