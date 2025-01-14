@@ -48,7 +48,7 @@ public enum StyleDictionaryEnum {
     public static let primitivesBlueBlue400 = UIColor(red: 0.165, green: 0.443, blue: 1.000, alpha: 1)
     public static let primitivesBlueBlue500 = UIColor(red: 0.004, green: 0.353, blue: 1.000, alpha: 1)
     public static let primitivesBlueBlue700 = UIColor(red: 0.004, green: 0.286, blue: 0.800, alpha: 1)
-    public static let primitivesBrandingBrandCi = UIColor(red: 0.039, green: 0.157, blue: 1.000, alpha: 1)
+    public static let primitivesBrandingBrandCi = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let primitivesGreenGreen100 = UIColor(red: 0.973, green: 1.000, blue: 0.863, alpha: 1)
     public static let primitivesGreenGreen200 = UIColor(red: 0.902, green: 1.000, blue: 0.604, alpha: 1)
     public static let primitivesGreenGreen300 = UIColor(red: 0.498, green: 0.831, blue: 0.239, alpha: 1)

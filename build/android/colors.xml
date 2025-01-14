@@ -4,7 +4,7 @@
   Do not edit directly, this file was auto-generated.
 -->
 <resources>
-  <color name="primitives_branding_brand_ci">#ff0a28ff</color>
+  <color name="primitives_branding_brand_ci">#ff000000</color>
   <color name="primitives_blue_blue_100">#fff1f8ff</color>
   <color name="primitives_blue_blue_200">#ffcae3ff</color>
   <color name="primitives_blue_blue_300">#ff4a88ff</color>
