@@ -41,7 +41,7 @@
   <color name="primitives_neutral_dark_300">#ffcfcfcf</color>
   <color name="primitives_neutral_dark_400">#ff8b8b8b</color>
   <color name="primitives_neutral_dark_900">#ff1e1e1e</color>
-  <color name="text_primary_blue_500">#ff015aff</color>
+  <color name="text_primary_blue_500">#ff00205b</color>
   <color name="text_primary_content_900">#ff1e1e1e</color>
   <color name="text_primary_success_500">#ff4caf1e</color>
   <color name="text_primary_warning_500">#fff9cb2c</color>

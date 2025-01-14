@@ -86,7 +86,7 @@ public class StyleDictionaryClass {
     public static let spacingSm = 8
     public static let spacingXl = 32
     public static let spacingXs = 4
-    public static let textPrimaryBlue500 = UIColor(red: 0.004, green: 0.353, blue: 1.000, alpha: 1)
+    public static let textPrimaryBlue500 = UIColor(red: 0.000, green: 0.125, blue: 0.357, alpha: 1)
     public static let textPrimaryContent900 = UIColor(red: 0.118, green: 0.118, blue: 0.118, alpha: 1)
     public static let textPrimaryError500 = UIColor(red: 0.922, green: 0.267, blue: 0.267, alpha: 1)
     public static let textPrimarySuccess500 = UIColor(red: 0.298, green: 0.686, blue: 0.118, alpha: 1)

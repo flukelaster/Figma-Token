@@ -86,7 +86,7 @@ internal struct StyleDictionaryStruct {
     internal static let spacingSm = 8
     internal static let spacingXl = 32
     internal static let spacingXs = 4
-    internal static let textPrimaryBlue500 = UIColor(red: 0.004, green: 0.353, blue: 1.000, alpha: 1)
+    internal static let textPrimaryBlue500 = UIColor(red: 0.000, green: 0.125, blue: 0.357, alpha: 1)
     internal static let textPrimaryContent900 = UIColor(red: 0.118, green: 0.118, blue: 0.118, alpha: 1)
     internal static let textPrimaryError500 = UIColor(red: 0.922, green: 0.267, blue: 0.267, alpha: 1)
     internal static let textPrimarySuccess500 = UIColor(red: 0.298, green: 0.686, blue: 0.118, alpha: 1)
