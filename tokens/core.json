@@ -2,7 +2,7 @@
   "primitives": {
     "branding": {
       "brand-ci": {
-        "value": "#0A28FF",
+        "value": "#000",
         "type": "color"
       }
     },
